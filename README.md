@@ -13,7 +13,7 @@ Create a macOS Application from an executable (like a Go binary)
 To install `appify`:
 
 ```bash
-go get github.com/machinebox/appify
+go install github.com/machinebox/appify@latest
 ```
 
 ## Usage
